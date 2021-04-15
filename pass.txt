@@ -1,2 +1,2 @@
-Username: vpnbook
-Password: s3tncx6
+vpnbook
+s3tncx6
